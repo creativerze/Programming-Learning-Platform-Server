@@ -4,9 +4,9 @@
     "course_id": "01",
     "rating": 4.9,
     "course_price": 50,
-    "title": "HTML stands for Hyper Text Markup Language",
+    "title": "Hyper Text Markup Language",
     "name": "HTML",
-    "img": "https://images.unsplash.com/photo-1508317469940-e3de49ba902e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "img": "https://img.freepik.com/free-vector/web-design-background_1300-39.jpg?w=740&t=st=1666799810~exp=1666800410~hmac=4591f1e448a937bbd30b2b6a0b14aacb8815f0dacd962287df21a374c9e9205c",
     "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables."
   },
   {
@@ -16,7 +16,7 @@
     "course_price": 60,
     "title": "CSS stands for Cascading Style Sheets",
     "name": "CSS",
-    "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "img": "https://img.freepik.com/free-vector/programmer-working-with-css_52683-24172.jpg?w=740&t=st=1666800124~exp=1666800724~hmac=3070b87605018726bb8b1714693654b86298853e37e5b38243f0e3238523d819",
     "details": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or in other media"
   },
   {
@@ -26,7 +26,7 @@
     "course_price": 70,
     "title": "C++ is an object-oriented programming language",
     "name": "C++",
-    "img": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
+    "img": "https://img.freepik.com/free-vector/programmer-working-with-html_52683-24171.jpg?w=740&t=st=1666800259~exp=1666800859~hmac=09c876d3f2f2b9de26a83f3021f334e05435ec8f576d68947f67fbd4d35a4dbb",
     "details": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms."
   },
   {
@@ -36,7 +36,7 @@
     "course_price": 120,
     "title": "JavaScript is the Programming Language for the Web",
     "name": "JavaScript",
-    "img": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "img": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=740&t=st=1666799960~exp=1666800560~hmac=8bcba304908a7120966a9e77325e1b0e54c0bcfdce3b018ed023b6241b12c40d",
     "details": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites"
   },
   {
@@ -46,7 +46,7 @@
     "course_price": 150,
     "title": "PHP is an open-source server-side scripting language",
     "name": "PHP",
-    "img": "https://images.unsplash.com/photo-1599507593548-0187ac4043c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+    "img": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1213.jpg?w=740&t=st=1666800327~exp=1666800927~hmac=f842eebec028a4d4cdb5b6cdb4af0f31e51820f996706709eab4ed6bece36058",
     "details": "The PHP Programming Language Meaning Explained. PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces"
   },
   {
@@ -56,7 +56,7 @@
     "course_price": 180,
     "title": "Python is an high-level programming language with dynamic semantics",
     "name": "Python",
-    "img": "https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "img": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1666800478~exp=1666801078~hmac=c07b831689cd9c55c92e69cc33296bb2c28ee5aee1e389d275ba27749996b4dd",
     "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
   }
 ]
