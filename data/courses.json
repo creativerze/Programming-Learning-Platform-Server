@@ -1,34 +1,26 @@
 [
   {
     "id": "01",
-    "name": "Breaking News"
+    "name": "Basic HTML"
   },
   {
     "id": "02",
-    "name": "Regular News"
+    "name": "Basic CSS"
   },
   {
     "id": "03",
-    "name": "International News"
+    "name": "Bootstrap"
   },
   {
     "id": "04",
-    "name": "Sports"
+    "name": "JavaScript"
   },
   {
     "id": "05",
-    "name": "Entertainment"
+    "name": "PHP Tutorial"
   },
   {
     "id": "06",
-    "name": "Culture"
-  },
-  {
-    "id": "07",
-    "name": "Arts"
-  },
-  {
-    "id": "08",
-    "name": "All News"
+    "name": "Python For Beginners"
   }
 ]
