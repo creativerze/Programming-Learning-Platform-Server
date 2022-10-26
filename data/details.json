@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": 4.9,
+    "course_price": 50,
+    "title": "HTML stands for Hyper Text Markup Language",
+    "name": "HTML",
+    "img": "",
+    "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables."
+  },
+  {
+    "_id": "0282e0e58a5c405fbd15261f11c2ab7b",
+    "category_id": "02",
+    "rating": 4.8,
+    "course_price": 60,
+    "title": "CSS stands for Cascading Style Sheets",
+    "name": "CSS",
+    "img": "",
+    "details": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or in other media"
+  },
+  {
+    "_id": "0282e0e58a5c406fbd15261f11c2ab8c",
+    "category_id": "03",
+    "rating": 4.7,
+    "course_price": 70,
+    "title": "C++ is an object-oriented programming language",
+    "name": "C++",
+    "img": "",
+    "details": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms."
+  },
+  {
+    "_id": "0282e0e58a5c407fbd15261f11c2ab9d",
+    "category_id": "04",
+    "rating": 4.5,
+    "course_price": 120,
+    "title": "JavaScript is the Programming Language for the Web",
+    "name": "JavaScript",
+    "img": "",
+    "details": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites"
+  },
+  {
+    "_id": "0282e0e58a5c408fbd15261f11c2ab10f",
+    "category_id": "05",
+    "rating": 4.4,
+    "course_price": 150,
+    "title": "PHP is an open-source server-side scripting language",
+    "name": "PHP",
+    "img": "",
+    "details": "The PHP Programming Language Meaning Explained. PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces"
+  },
+  {
+    "_id": "0282e0e58a5c409fbd15261f11c2ab11g",
+    "category_id": "06",
+    "rating": 4.3,
+    "course_price": 180,
+    "title": "Python is an high-level programming language with dynamic semantics",
+    "name": "Python",
+    "img": "",
+    "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
+  }
+]
